@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Proyecto2</string>
+
+    <string name="home">home</string>
+    <string name="dep">Departamentos</string>
+    <string name="listas">Mis Listas</string>
+
+    <string name="search">Buscar</string>
+    <string name="carrito">Carrito</string>
+    <string name="opcion1">Opcion 1</string>
+    <string name="opcion2">Opcion 2</string>
+    <string name="opcion3">Opcion 3</string>
+
+
+    <string name="Titulo">Titulo</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="imagen">imagen</string>
+</resources>
